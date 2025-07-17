@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rakebul</h1>
-<h3 align="center">Web developer | Data Analyst | Student</h3>
+<h3 align="center">Data Analyst | Student</h3>
 
 - 📫 How to reach me **rakebulhassanofficial@gmail.com**
 
