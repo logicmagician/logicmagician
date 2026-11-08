@@ -19,7 +19,7 @@
 ## 📌 About Me
 
 - 🎓 **Education**: Computer Engineering Student
-- 💼 **Roles**: Business Analyst | Tech Tutor | Content Creator & Writer
+- 💼 **Roles**: Business Analyst | Tutor | Content Creator & Writer
 - 📚 **Continuous Learning**:
   - **edX**: CS50's Introduction to Computer Science & CS50's SQL
   - **Ericsson Edge Academia**: Automation, Networking & Artificial Intelligence
