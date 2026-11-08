@@ -59,14 +59,6 @@
 
 ---
 
-## 📈 GitHub Analytics & Activity
-
-<div align="center">
-  <!-- GitHub Streak & Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logicmagician&theme=dark&hide_border=false&background=0d1117" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=logicmagician&show_icons=true&theme=dark&hide_border=false&background=0d1117" alt="GitHub Stats" width="49%" />
-</div>
-
 <br />
 
 ### 📊 Contribution Snake Graph
