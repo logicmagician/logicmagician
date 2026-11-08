@@ -23,7 +23,7 @@
 - 📚 **Continuous Learning**:
   - **edX**: CS50's Introduction to Computer Science & CS50's SQL
   - **Ericsson Edge Academia**: Automation, Networking & Artificial Intelligence
-  - **ZAD Academy**: Islamic Studies Program
+  - **ZAD Academy**: MA in Islamic Studies Program
 - ✉️ **Contact**: [rakebulhassanofficial@gmail.com](mailto:rakebulhassanofficial@gmail.com)
 
 ---
