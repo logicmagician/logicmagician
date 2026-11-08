@@ -43,12 +43,12 @@
 
 ## 🚀 Featured Projects
 
-### 📱 [RoutineNest](https://github.com/logicmagician/RoutineNest)
+### 📱 [RoutineNest](https://logicmagician.github.io/RoutineNest/)
 > A client-side daily routine and productivity Progressive Web App (PWA).
 - **Tech Stack**: HTML5, CSS3, JavaScript (Pure Vanilla JS).
 - **Key Features**: Lightweight, zero dependencies, offline availability, custom habit tracking.
 
-### 📝 [MCQ Studio](https://github.com/logicmagician/MCQ-Studio)
+### 📝 [MCQ Studio](https://logicmagician.github.io/mcq-studio/)
 > An interactive testing platform designed to create, attempt, and analyze multiple-choice quizzes.
 - **Tech Stack**: JavaScript, HTML/CSS, Data handling.
 
