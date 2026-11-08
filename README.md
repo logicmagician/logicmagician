@@ -68,10 +68,6 @@
 
 <br />
 
-### 📈 Contribution Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logicmagician&theme=react-dark" width="100%" alt="Activity Graph" />
-</div>
 
 ---
 
