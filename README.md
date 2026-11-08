@@ -1,16 +1,16 @@
 <!-- Header Banner & Dynamic Typing Title -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:161b22&amp;height=200&amp;section=header&amp;text=Welcome%20to%20my%20Profile!&amp;fontSize=40&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Computer%20Engineering%20Student%20%7C%20Business%20Analyst%20%7C%20Tutor%20%26%20Writer&amp;descSize=18&amp;descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Business%20Analyst%20%7C%20Tutor%20%26%20Writer&descSize=18&descAlignY=62" width="100%" />
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Computer+Engineering+Student;Business+Analyst+%26+Tech+Tutor;Social+Media+Writer;Building+RoutineNest+%26+MCQ+Studio" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Business+Analyst+%26+Tech+Tutor;Social+Media+Writer;Building+RoutineNest+%26+MCQ+Studio" alt="Typing SVG" />
     </a>
   </h1>
 
   <!-- Visitor Counter & Status Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=logicmagician&amp;label=Profile%20Views&amp;color=0e755e&amp;style=flat-square" alt="Visitor Count" />
+    <img src="https://komarev.com/ghpvc/?username=logicmagician&label=Profile%20Views&color=0e755e&style=flat-square" alt="Visitor Count" />
     <img src="https://img.shields.io/badge/Status-Building_%26_Learning-brightgreen?style=flat-square" alt="Status" />
     <img src="https://img.shields.io/badge/Focus-Software%20%7C%20Embedded%20%7C%20AI-blue?style=flat-square" alt="Focus" />
   </p>
@@ -65,8 +65,8 @@
 
 <div align="center">
   <!-- GitHub Streak & Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logicmagician&amp;theme=dark&amp;hide_border=false&amp;background=0d1117" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=logicmagician&amp;show_icons=true&amp;theme=dark&amp;hide_border=false&amp;background=0d1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logicmagician&theme=dark&hide_border=false&background=0d1117" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=logicmagician&show_icons=true&theme=dark&hide_border=false&background=0d1117" alt="GitHub Stats" width="49%" />
 </div>
 
 <br />
@@ -80,7 +80,7 @@
 
 ### 📈 Contribution Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logicmagician&amp;theme=react-dark" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logicmagician&theme=react-dark" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -89,18 +89,18 @@
 
 <div align="center">
   <a href="https://github.com/logicmagician" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/rakebulhassan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/rakebulwrites" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://www.instagram.com/rakebulwrites/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:rakebulhassanofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
