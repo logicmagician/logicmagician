@@ -1,6 +1,4 @@
 <!-- Header Banner & Dynamic Typing Title -->
-<div align="center">
-  type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Business%20Analyst%20%7C%20Tutor%20%26%20Writer&descSize=18&descAlignY=62" width="100%" />
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
